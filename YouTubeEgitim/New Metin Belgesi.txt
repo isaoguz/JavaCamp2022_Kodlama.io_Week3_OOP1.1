@@ -1,0 +1,65 @@
+DEĞER VE REFERANS TİPLER
+
+referans tipler aslında yazılımda değişimi ve bağımlılığı koruyan bir şeydir
+tasarım desenleri oldugusunun tamamı bunun üzerine kuruludur.
+
+bellekte iki alan var stack ve heap kısımları var.
+tanımladığımız alanlar stack'de yer alıyor 
+değer tipler stack'de yer alıyor
+referans tipler stack ve heap' yer alıyor referanslar heap kısmındadır.
+
+
+CLASS'LAR
+
+içerisinde yapacağımız işlemleri veya herhangi bir konuda
+bilgi tutan yapılardır.
+
+
+//stack kısmi                 //heap kısmı
+CreditManager creditManager = new CreditManager();
+
+
+
+CONSTRUCTORLAR
+
+bir classı newleyince çalışan bloktur.
+
+
+INHERITANCE
+
+kalıtım yolu ile class'ların değişkenlerini ve methotlarını constructorını
+alma özelliğidir.
+
+POLYMORPHİSM
+
+referanns tiplerin birbirlerini tutmaları.
+farklı biçimlerde davranış sergiletebiliyoruz.
+
+INTERFACES
+
+genellikle iş yapan operasyonların sadece imza seviyesinde yazarak yazılımda bağımlılığı
+korumak amacıyla yapılan çalışmadır.
+Birbirinden farklı yöntemleri bağımlılığı koruyarak imza seviyesinde oluşturmamızı sağlar
+bir classa interface implemente edersek o class interfacenin özeliklerini
+implemente edip doldurmak zorundadır. Interfaceler referans tipdir. Metotları vs
+kendimiz elle dolduruyoruz.
+
+NOT => bir sınıf bir sınıfı inherit edebilir.
+		bir sınıf birden fazla interfaceyi implemente edebilir.
+
+DRY => Dont repeat your selfe
+
+
+ABSTRACT sınıflar
+
+Bizim için tamamlanmış operasyonları tutmaktadır. tamamlanmamış olanlar abstract ile belirtilir.
+tamamlanmış olan direkt yazzılır. yani aynı olanlar değiştirilmeyecek olanlar değiştirilecek 
+özellikli metodu abstract classı inherit ettikten sonra başına override yazarak değiştirebiliriz.
+değişmeyen şeyi yazmaya gerek yok çünkü inherit ettiğimiz için referansını tutmaktadır.
+ortak ve ortak olmayan şeyleri belirtiyor.
+INTERFACE ile ABSTRACT'ın farkı interface'de implemete edince çağırmak zorundayız kalabalık yapmak
+zorundayız ama abstract class'larda hem tamamlanmış hemde tamamlanmamış operasyon yazabiliriz.
+
+eğer istersek abstract class'larda değişmeyen bir yeri bir yer için özellikle değiştirmek
+istiyorsak abstract classdaki methoda virtual yazıp inherit ettiğimiz class'da override ederek
+değiştirebiliriz.

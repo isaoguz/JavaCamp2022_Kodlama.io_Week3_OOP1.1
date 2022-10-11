@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeEgitim", "YouTubeEgitim\YouTubeEgitim.csproj", "{9175B9C7-EA87-4FA7-8787-7E9F49DCCBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{340FC6AF-1D01-4E06-AA7E-C8998A5DE0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9175B9C7-EA87-4FA7-8787-7E9F49DCCBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9175B9C7-EA87-4FA7-8787-7E9F49DCCBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9175B9C7-EA87-4FA7-8787-7E9F49DCCBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9175B9C7-EA87-4FA7-8787-7E9F49DCCBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340FC6AF-1D01-4E06-AA7E-C8998A5DE0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340FC6AF-1D01-4E06-AA7E-C8998A5DE0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340FC6AF-1D01-4E06-AA7E-C8998A5DE0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340FC6AF-1D01-4E06-AA7E-C8998A5DE0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7657FE24-E954-4A72-A872-872131361658}
+	EndGlobalSection
+EndGlobal

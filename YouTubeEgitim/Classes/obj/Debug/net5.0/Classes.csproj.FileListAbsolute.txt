@@ -1,0 +1,16 @@
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.exe
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.dll
+C:\java2022\YouTubeEgitim\Classes\bin\Debug\net5.0\Classes.pdb
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.dll
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\refint\Classes.dll
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.pdb
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
+C:\java2022\YouTubeEgitim\Classes\obj\Debug\net5.0\ref\Classes.dll

@@ -1,0 +1,16 @@
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.exe
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.deps.json
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.runtimeconfig.json
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.runtimeconfig.dev.json
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.dll
+C:\java2022\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.pdb
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.csproj.AssemblyReference.cache
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.AssemblyInfoInputs.cache
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.AssemblyInfo.cs
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.csproj.CoreCompileInputs.cache
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.dll
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\refint\YouTubeEgitim.dll
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.pdb
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.genruntimeconfig.cache
+C:\java2022\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\ref\YouTubeEgitim.dll
